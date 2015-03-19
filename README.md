@@ -1,5 +1,5 @@
 # vagrant node nginx boilerplate
-boiler plate repository for installing a default node.js server, nginx and react.js app with vagrant
+boiler plate repository for installing a default node.js server, nginx with vagrant
 
 ###set up
 `vagrant up`
